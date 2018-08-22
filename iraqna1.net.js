@@ -1,30 +1,30 @@
 #sultan10{
-    border-top: 3px solid #F7F7F7;
-    border-bottom: 3px solid #F7F7F7;
+    border-top: 3px solid #F0C7DE;
+    border-bottom: 3px solid #F0C7DE;
     margin-bottom: 3px;
     border-radius: 15px;
 }
 .s1.fa.fa-user.label.badgex.label-as-badge.label-success {background-color: #c86184!important;}
-.fr.borderg, .fr.borderg {border: 1px solid #D149C3;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.fr.borderg, .fr.borderg {border: 1px solid #E63ECA;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .label-primary.mini.fl, .border-radius {border: 2px solid #;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .room.borderg.hand.nosel.fl, .border-radius {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-.btn-sm, .btn-sm {border: 1px solid #28bbad;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
+.btn-sm, .btn-sm {border: 1px solid #E63ECA;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .uzr.fl.corner.borderg.mm, .uzr.fl.corner.borderg.mm {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
 .label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 1px solid #c86184;font-family: 'jazeera',FontAwesome;border-radius: 15px 0px 15px 0px;}
-ul.nav.nav-tabs.fl li a:hover {background-color: #D149C3;color: white;}
-ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #D149C3;border-radius: 15px 15px 0px 0px;background-color: #FFFFFF;border-bottom: 3px solid #D149C3;}
-ul.nav.nav-tabs.fl li a {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 6px!important;text-align: center!important;border-radius: 15px 15px 0px 0px;width: 100%;color: #D149C3;}
+ul.nav.nav-tabs.fl li a:hover {background-color: #E63ECA;color: white;}
+ul.nav.nav-tabs.fl li {width: 33.3%;border-top: 2px solid #E63ECA;border-radius: 15px 15px 0px 0px;background-color: #FFFFFF;border-bottom: 3px solid #E63ECA;}
+ul.nav.nav-tabs.fl li a {font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 6px!important;text-align: center!important;border-radius: 15px 15px 0px 0px;width: 100%;color: #E63ECA;}
 
 div#tlogins {
-    border: 2px solid #D149C3;
+    border: 2px solid #E63ECA;
     border-radius: 20px 20px 0px 0px;
 }
 a.label.label-primary.fl {
     height: 35px;
     border-radius: 0px 0px 0px 0px!important;
     padding: 8px!important;
-    border: 2px solid #D149C3;
+    border: 2px solid #F0C7DE;
 }
 a.label.label-primary.fl img.fl {
     margin-top: -3px;
@@ -34,7 +34,7 @@ a.label.label-primary.fl {
     height: 40px;
     border-radius: 0px 0px 0px 0px!important;
     padding: 8px!important;
-    border: 2px solid #D149C3;
+    border: 2px solid #F0C7DE;
 }
 .sultan9 {height: 30px;width: 22%; margin: 2px;}
 .sultan11 {
@@ -49,7 +49,7 @@ padding: 2px 10px 2px 10px; margin:7px 10px 7px 10px;
     font-family: 'jazeera-light',FontAwesome;
     background-color: #EB8090;
     height: 28px;
-    color: #f9f9f9;
+    color: #A34DF9;
     border-radius: 5px 5px 5px 5px;
     border-bottom: 2px solid #c86184;
     border-top: 2px solid #c86184;
@@ -143,7 +143,7 @@ div#l2 ,div#l3, div#l1 {
     margin-bottom: 2px;
     border-top: 0px solid;
     margin-top: 0px;
-    border-color: #D149C3;
+    border-color: #E63ECA;
     border-radius: 15px;
     height: 69px;
 }
@@ -153,7 +153,7 @@ div#l2 ,div#l3, div#l1 {
 
 img.fitimg.fl.u-pic {
     border-radius: 15px 0;
-    border: 1.5px solid #5b5959;
+    border: 1.5px solid #FFF0F9;
     background-size: cover;
 }
 
@@ -171,8 +171,8 @@ label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.
     background-image: url();
     background-color: #ffffff;
   }
-  .lonline.light.break{background-image: url();background-size: inherit;border-top:5px groove #D149C3;padding-top:5px}
-  .sultan111,div#d2{background-repeat: no-repeat;background-size: contain;background-image: url();background-color:#ffffff}a.label.label-primary.fl{height:35px;border-radius:19px 19px 0 0!important;padding:8px!important;border:2px solid #D1419C}
+  .lonline.light.break{background-image: url();background-size: inherit;border-top:5px groove #E63ECA;padding-top:5px}
+  .sultan111,div#d2{background-repeat: no-repeat;background-size: contain;background-image: url();background-color:#ffffff}a.label.label-primary.fl{height:35px;border-radius:19px 19px 0 0!important;padding:8px!important;border:2px solid #4bafa5}
 }
 
 label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.mini.fl {
@@ -187,7 +187,7 @@ label.fl.label.loginstat.label-success {
 }
 .fl.label.loginstat.label-success, .fl.label.loginstat.label-info {
     color: #c86184;
-    border: 1px solid #e2e0e0;
+    border: 1px solid #FFB8F1;
     border-radius: 5px 5px 5px 5px;
     margin-top: 1px;
     background-color: #FFFFFF!important;
@@ -215,7 +215,7 @@ label.label.tc.border.btn.fl {
     border-radius: 15px 15px 15px 15px;
 }
 .label.tc.border.btn.fl, .label.tc.border.btn.fl {
-    border: 1px solid #F0C7DE;
+    border: 1px solid #E0B8C7;
     border-radius: 5px 5px 5px 5px;
 }
 label.tc {
